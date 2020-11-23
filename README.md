@@ -8,20 +8,22 @@ These data compile the jobs listed in the Jobs Wiki for every year since 2011; f
 
 ## Results
 
-### 1. Number of jobs overall
+Bear in mind with the following graphs: the last data point, for 2020, is not like the others! This represents the number of jobs advertised for the 2020-2021 season *so far* (as of 11/23/2020). We're fairly far into the season, but it's by no means over yet.
+
+### Number of jobs overall
 
 <img src="plot/figures/fig0.num_jobs.png" width="700" />
 
-### 2. Number of jobs by type
+### Number of jobs by type
 
 <img src="plot/figures/fig1.num_jobs_per_type.png" width="800" />
 
-### 3. Number of jobs by field (top 10)
+### Number of jobs by field (top 10)
 
 <img src="plot/figures/fig2.num_jobs_per_field_top10.png" width="800" />
 
 
-### 4. Number of jobs by field (all)
+### Number of jobs by field (all)
 
 <img src="plot/figures/fig3.num_jobs_per_field_all.png" width="700" />
 
