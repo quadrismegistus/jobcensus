@@ -4,7 +4,7 @@ How many jobs are offered each year in the humanities? Surprisingly, we don't ex
 
 Last November (2019), this method [showed a steep decline](https://twitter.com/quadrismegistus/status/1196462662101680128) in the number of jobs, especially since 2017. This November (2020), that fall has accelerated. Although this year's market is not yet over, less than half the number of jobs advertised by this time last year are advertised today. Importantly, another trend visible from last year's data has continued today: we see continued decline in every subfield of the literary humanities besides one: Ethnic Studies.
 
-These data compile the jobs listed in the Jobs Wiki for every year since 2011; for this year (2020) only, they also include 90 jobs advertised in the MLA JIL (with 21 duplicates manually removed). The code used to gather the data is described [below](#code).
+These data compile the jobs listed in the Jobs Wiki for every year since 2011; for this year (2020) only, they also include 90 jobs advertised in the MLA JIL (with 21 duplicates manually removed), gleaned from email alerts collected by [Ben Schmidt](https://github.com/bmschmidt). The data is described [here](#data), and the code used to gather it is described [here](#code).
 
 ## Results
 
@@ -39,6 +39,15 @@ Bear in mind with the following graphs: the last data point, for 2020, is not li
 4. [Manual process: Give aliases to fields](synthesis/data.jobcensus.field_aliases.csv)
 
 5. [Plot results](plot/plotjobs.ipynb)
+
+## Data
+
+1. [Jobs scraped from Jobs Wiki](wiki/data.jobcensus.wiki.2020-11-23.csv)
+
+2. [Jobs from MLA job alerts](mla/data.jobcensus.mla.2020-11-23.anno.csv)
+
+3. [Field aliases](synthesis/data.jobcensus.field_aliases.csv)
+
 
 ## Sources
 
