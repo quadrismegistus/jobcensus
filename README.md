@@ -1,6 +1,30 @@
 # jobcensus
 Academic job census for the humanities
 
+## Origin
+
+How many jobs are offered each year in the humanities? Surprisingly, we don't exactly know. In literature, we do have the [MLA Job Report](mla/reports/Job List_2018-19_Linked.pdf), but this hasn't been updated in the last couple years. The discipline is changing -- and collapsing -- more quickly than that. This "census" is meant to be an informal count of the jobs advertised each year, using the [Academic Jobs Wiki](https://academicjobs.wikia.org/) as its primary source. Last November, this method [showed a steep decline](https://twitter.com/quadrismegistus/status/1196462662101680128) in the number of jobs, especially since 2017. This November (2020), the fall has continued.
+
+## Results
+
+### 1. Number of jobs overall
+
+<img src="plot/figures/fig0.num_jobs.png" width="700" />
+
+### 2. Number of jobs by type
+
+<img src="plot/figures/fig1.num_jobs_per_type.png" width="700" />
+
+### 3. Number of jobs by field (top 10)
+
+<img src="plot/figures/fig2.num_jobs_per_field_top10.png" width="700" />
+
+
+### 4. Number of jobs by field (all)
+
+<img src="plot/figures/fig3.num_jobs_per_field_all.png" width="700" />
+
+
 ## Code
 
 1. [Run the numbers on the Wiki](wiki/wiki_jobcensus.ipynb)
