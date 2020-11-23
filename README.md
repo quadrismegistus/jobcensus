@@ -1,6 +1,18 @@
 # jobcensus
 Academic job census for the humanities
 
+## Code
+
+1. [Run the numbers on the Wiki](wiki/wiki_jobcensus.ipynb)
+
+2. [Parse the MLA JIL emails](mla/mla_jobcensus.ipynb)
+
+3. [Synthesize the data](synthesis/synthesize.ipynb)
+
+4. [Manual process: Give aliases to fields](synthesis/data.jobcensus.field_aliases.csv)
+
+5. [Plot results](plot/plotjobs.ipynb)
+
 ## Sources
 
 1. [Academic Jobs Wiki](https://academicjobs.wikia.org/)
@@ -96,14 +108,3 @@ Academic job census for the humanities
 2. MLA JIL (2020-2021)
     * Collected by [Ben Schmidt](https://github.com/bmschmidt)
 
-## Code
-
-1. Run the numbers on the Wiki
-
-2. Parse the MLA JIL emails
-
-3. Synthesize the data
-
-4. Manual process: Give aliases to fields
-
-5. Plot results
