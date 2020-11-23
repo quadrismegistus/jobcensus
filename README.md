@@ -1,9 +1,8 @@
-# jobcensus
-Academic job census for the humanities
+# Job Census
 
-## Origin
+How many jobs are offered each year in the humanities? Surprisingly, we don't exactly know. In literature, we do have the [MLA Job Report](mla/reports/Job_List_2018-19_Linked.pdf), but this hasn't been updated in the last couple years. The discipline is changing -- and collapsing -- more quickly than that. This "census" is meant to be an informal count of the jobs advertised each year, using the [Academic Jobs Wiki](https://academicjobs.wikia.org/) as its primary source. Last November, this method [showed a steep decline](https://twitter.com/quadrismegistus/status/1196462662101680128) in the number of jobs, especially since 2017. This November (2020), the fall has continued. Although this year's market is not yet over, less than half the number of jobs advertised by this time last year are advertised today. We see continued decline in every subfield of the literary humanities besides one: Ethnic Studies/Critical Race Studies.
 
-How many jobs are offered each year in the humanities? Surprisingly, we don't exactly know. In literature, we do have the [MLA Job Report](mla/reports/Job List_2018-19_Linked.pdf), but this hasn't been updated in the last couple years. The discipline is changing -- and collapsing -- more quickly than that. This "census" is meant to be an informal count of the jobs advertised each year, using the [Academic Jobs Wiki](https://academicjobs.wikia.org/) as its primary source. Last November, this method [showed a steep decline](https://twitter.com/quadrismegistus/status/1196462662101680128) in the number of jobs, especially since 2017. This November (2020), the fall has continued.
+These data compile the jobs listed in the Jobs Wiki for every year since 2011; for this year (2020) only, they also include 90 jobs advertised in the MLA JIL (with 21 duplicates manually removed). The code used to gather the data is described [below](#code).
 
 ## Results
 
@@ -13,11 +12,11 @@ How many jobs are offered each year in the humanities? Surprisingly, we don't ex
 
 ### 2. Number of jobs by type
 
-<img src="plot/figures/fig1.num_jobs_per_type.png" width="700" />
+<img src="plot/figures/fig1.num_jobs_per_type.png" width="800" />
 
 ### 3. Number of jobs by field (top 10)
 
-<img src="plot/figures/fig2.num_jobs_per_field_top10.png" width="700" />
+<img src="plot/figures/fig2.num_jobs_per_field_top10.png" width="800" />
 
 
 ### 4. Number of jobs by field (all)
