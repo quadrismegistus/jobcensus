@@ -2,30 +2,18 @@
 
 How many jobs are offered each year in the humanities? Surprisingly, we don't exactly know. In literature, we do have the [MLA Job Report](mla/reports/Job_List_2018-19_Linked.pdf), but this hasn't been updated in the last couple years. The discipline is changing -- and collapsing -- more quickly than that. This "census" is meant to be an informal count of the jobs advertised each year, using the [Academic Jobs Wiki](https://academicjobs.wikia.org/) as its primary source.
 
-Last November (2019), this method [showed a steep decline](https://twitter.com/quadrismegistus/status/1196462662101680128) in the number of jobs, especially since 2017. This November (2020), that fall has accelerated. Although this year's market is not yet over, less than half the number of jobs advertised by this time last year are advertised today. Importantly, another trend visible from last year's data has continued today: we see continued decline in every subfield of the literary humanities besides one: Ethnic Studies.
-
-These data compile the jobs listed in the Jobs Wiki for every year since 2011; for this year (2020) only, they also include 90 jobs advertised in the MLA JIL (with 21 duplicates manually removed), gleaned from email alerts collected by [Ben Schmidt](https://github.com/bmschmidt). The data is described [here](#data), and the code used to gather it is described [here](#code).
+These data compile the jobs listed in the Jobs Wiki for every year since 2011; for this year (2020-21) only, they also include 90 jobs advertised in the MLA JIL (with 21 duplicates manually removed), gleaned from email alerts collected by [Ben Schmidt](https://github.com/bmschmidt). The data is described [here](#data), and the code used to gather it is described [here](#code).
 
 ## Results
 
-Bear in mind with the following graphs: the last data point, for 2020, is not like the others! This represents the number of jobs advertised for the 2020-2021 season *so far* (as of 5 May 2021).
-
-### Number of jobs overall
-
-<img src="plot/figures/fig0.num_jobs.2021-05-05.png" width="700" />
-
 ### Number of jobs by type
 
-<img src="plot/figures/fig1.num_jobs_per_type.2021-05-05.png" width="800" />
-
-### Number of jobs by field (top 10)
-
-<img src="plot/figures/fig2.num_jobs_per_field_top10.2021-05-05.png" width="800" />
+<img src="plot/figures/fig1.num_jobs_per_type.2021-08-07.v4.png" width="800" />
 
 
 ### Number of jobs by field (all)
 
-<img src="plot/figures/fig3.num_jobs_per_field_all.2021-05-05.png" width="700" />
+<img src="plot/figures/fig3.num_jobs_per_field_all.2021-08-07.rescaled.v4.png" width="800" />
 
 
 ## Code
